@@ -7,8 +7,7 @@ Poniżej przedstawiam pytania, które postawiłam podczas analizy danych:
 1.	Rodzaje napojów -	Pie chart
 2.	Zero kcal vs pozostałe -	Pie chart
 3.	Kofeina według kategorii -	Bar chart
-4.	Monster vs Red Bull vs Tiger vs Rockstar -	Tabela
-5.	Średnia, min, max	- Tabela
+4.	Monster vs Red Bull vs Tiger vs Rockstar - średnia, min, max	- Tabela
 6.	Top 5 najmniej kcal	- Tabela
 7.	Top 5 najwięcej kcal	- Tabela
 8.	Top 5 najwięcej kofeiny	- Tabela
