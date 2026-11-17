@@ -1,4 +1,5 @@
 Dzień dobry!
+
 Postanowiłam wykonać w języku R w programie RStudio analizę produktów zawierających kofeinę.
 Bazę danych, która umieszczona jest w pliku caffeine.csv, znalazłam na stronie https://www.kaggle.com/datasets/heitornunes/caffeine-content-of-drinks/data
 W folderach tabele oraz wykresy znajduje się wizualizacja analizy w przystępnych tabelach oraz wykresach.
@@ -15,3 +16,5 @@ Poniżej przedstawiam pytania, które postawiłam podczas analizy danych:
 10.	Liczba produktów na markę	- Bar chart
 11.	Kalorie a kofeina	- Scatter plot
 12.	Kofeina na 100 ml	- Bar chart
+
+Projekt autorski :)
